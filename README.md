@@ -1,20 +1,46 @@
-# 👋 Hi, I'm Dehan Chia
+# Hi, I’m Dehan
 
-I'm a data scientist with a strong interest in machine learning, finance, and algorithmic trading. I enjoy building end-to-end ML systems — from data engineering and model training to deployment and monitoring — especially for time series and real-world decision-making use cases.
+I build systems for decision-making under uncertainty.
+
+My work sits at the intersection of data, machine learning, and real-world applications — particularly in time series and trading contexts. I’m interested in how information moves through systems, and how it can be structured to improve speed, clarity, and outcomes.
+
+Most of what I do spans the full stack:
+- data ingestion and pipeline design
+- modeling and evaluation
+- deployment, monitoring, and iteration
+
+I tend to prefer solutions that are simple, reliable, and actually used.
 
 ---
 
-## 🔧 My Current Stack
-**Languages**: Python, SQL  
-**Tools & Frameworks**: Scikit-learn, XGBoost, LightGBM, PyTorch, Spark, Dagster  
-**Cloud & Infra**: AWS (Lambda, S3, Glue), Databricks, TimeScaleDB, Kafka  
-**Specialties**: Time series forecasting, trading systems, ML pipelines, ETL orchestration, data visualization
+## Current stack
 
+**Languages**  
+Python, SQL  
 
-## 🎓 Education
-**MSc Artificial Intelligence** — Singapore Management University  
-**BSc Economics (Data Science Analytics)** — Singapore Management University
+**Frameworks & tools**  
+Scikit-learn, XGBoost, LightGBM, PyTorch, Spark, Dagster  
+
+**Infrastructure**  
+AWS (S3, Lambda, Glue), Databricks, Kafka, TimeScaleDB  
+
+**Focus areas**  
+Time series, trading analytics, ML systems, data pipelines, decision workflows  
+
 ---
 
-## 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/dehan-c-948045177/) • [GitHub](https://github.com/dehan97) • dehan.chia@yahoo.com
+## Education
+
+**MSc Artificial Intelligence**  
+Singapore Management University  
+
+**BSc Economics (Data Science Analytics)**  
+Singapore Management University  
+
+---
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/dehan-c-948045177/)  
+[GitHub](https://github.com/dehan97)  
+dehan.chia@yahoo.com
